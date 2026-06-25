@@ -712,3 +712,22 @@ h3 {
     text-align: center;
     text-shadow: 0 0 10px rgba(0,170,255,0.5);
 }
+/* Mobile */
+table img {
+    width: 180px;
+    height: auto;
+}
+
+/* Tablet */
+@media (min-width: 768px) {
+    table img {
+        width: 280px;
+    }
+}
+
+/* Laptop/Desktop */
+@media (min-width: 1024px) {
+    table img {
+        width: 350px;
+    }
+}
