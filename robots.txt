@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://faizagee651-alt.github.io/JETSHUB/sitemap.xml
