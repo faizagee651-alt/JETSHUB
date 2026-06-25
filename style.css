@@ -731,3 +731,11 @@ table img {
         width: 350px;
     }
 }
+h1 + h2 + table::after {
+    content: "⬇ Scroll To Get Info ⬇";
+    display: block;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 15px;
+}
